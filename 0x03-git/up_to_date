@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+=======
+cho “git pull”> up_to_date
+git add .
+git commit -m 'How to be up to date in git'
+>>>>>>> 91c5aae8866fc8503ab518467cc917f9ba4548f1
 git push
